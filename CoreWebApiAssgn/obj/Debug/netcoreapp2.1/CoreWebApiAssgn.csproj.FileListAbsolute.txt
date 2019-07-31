@@ -1,0 +1,14 @@
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\bin\Debug\netcoreapp2.1\CoreWebApiAssgn.deps.json
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\bin\Debug\netcoreapp2.1\CoreWebApiAssgn.runtimeconfig.json
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\bin\Debug\netcoreapp2.1\CoreWebApiAssgn.runtimeconfig.dev.json
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\bin\Debug\netcoreapp2.1\CoreWebApiAssgn.dll
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\bin\Debug\netcoreapp2.1\CoreWebApiAssgn.pdb
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.csproj.CoreCompileInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.RazorAssemblyInfo.cache
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.RazorAssemblyInfo.cs
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.AssemblyInfoInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.AssemblyInfo.cs
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.RazorTargetAssemblyInfo.cache
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.dll
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.pdb
+C:\thermo\inheritanceApp\inheritanceApp\CoreWebApiAssgn\CoreWebApiAssgn\obj\Debug\netcoreapp2.1\CoreWebApiAssgn.csprojAssemblyReference.cache
