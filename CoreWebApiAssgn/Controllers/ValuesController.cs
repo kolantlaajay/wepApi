@@ -55,7 +55,8 @@ namespace CoreWebApiAssgn.Controllers
             studentList.FirstOrDefault(c => c.id == id).lastName = value.lastName;
             studentList.FirstOrDefault(c => c.id == id).division = value.division;
             studentList.FirstOrDefault(c => c.id == id).id = value.id;
-                       
+
+
 
             List<Student> a = studentList;
             
